@@ -7,9 +7,9 @@
 }
 .blue {
     max-width:960px;
-  margin:0 auto;
-  padding:40px 24px;
-  background-color:#549ab8;
+    margin:0 auto;
+    padding:40px 24px;
+    background-color:#549ab8;
 }
 .small {
     font-size:0.8em;
@@ -23,6 +23,9 @@
     text-align:center;
 }
 .reddish-body {
+    max-width:960px;
+    margin:0 auto;
+    padding:40px 24px;
     background-color:rgb(91, 42, 4)
 }
 .orange {
@@ -37,5 +40,16 @@
     background-color:rgb(175, 175, 175);
 }
 .grey-body {
+    max-width:960px;
+    margin:0 auto;
+    padding:40px 24px;
     background-color:rgb(117, 117, 117)
+}
+.image-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.image-container img {
+  width: 45%;
 }
