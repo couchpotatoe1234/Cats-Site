@@ -67,3 +67,9 @@
     padding:40px 24px;
     background-color:rgb(209, 209, 209)
 }
+.dark-blue {
+    max-width:960px;
+    margin:0 auto;
+    padding:40px 24px;
+    background-color:blue;
+}
