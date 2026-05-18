@@ -79,3 +79,15 @@
     padding:40px 24px;
     background-color:rgb(80, 40, 9);
 }
+.tan {
+    max-width:960px;
+    margin:0 auto;
+    padding:40px 24px;
+    background-color:tan
+}
+.dark-tan {
+    max-width:960px;
+    margin:0 auto;
+    padding:40px 24px;
+    background-color:rgb(148, 127, 100)
+}
