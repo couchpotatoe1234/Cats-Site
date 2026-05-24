@@ -26,7 +26,7 @@
     max-width:960px;
     margin:0 auto;
     padding:40px 24px;
-    background-color:rgb(108, 50, 5)
+    background-color:rgb(108, 50, 5);
 }
 .orange {
     max-width:960px;
@@ -49,7 +49,7 @@
     max-width:960px;
     margin:0 auto;
     padding:40px 24px;
-    background-color:rgb(88, 88, 88)
+    background-color:rgb(88, 88, 88);
 }
 .image-container {
     display: flex;
@@ -65,7 +65,7 @@
     max-width:960px;
     margin:0 auto;
     padding:40px 24px;
-    background-color:rgb(209, 209, 209)
+    background-color:rgb(209, 209, 209);
 }
 .dark-blue {
     max-width:960px;
@@ -83,13 +83,13 @@
     max-width:960px;
     margin:0 auto;
     padding:40px 24px;
-    background-color:tan
+    background-color:tan;
 }
 .dark-tan {
     max-width:960px;
     margin:0 auto;
     padding:40px 24px;
-    background-color:rgb(148, 127, 100)
+    background-color:rgb(148, 127, 100);
 }
 .dark-brown {
     max-width:960px;
@@ -107,7 +107,7 @@
     max-width:960px;
     margin:0 auto;
     padding:40px 24px;
-    background-color:rgb(37, 37, 51)
+    background-color:rgb(37, 37, 51);
 }
 .text-green {
     color:rgb(0, 50, 0);
@@ -119,5 +119,11 @@
     max-width:960px;
     margin:0 auto;
     padding:40px 24px;
-    background-color:rgb(240, 217, 186)
+    background-color:rgb(240, 217, 186);
+}
+.tiger {
+    max-width:960px;
+    margin:0 auto;
+    padding:40px 24px;
+    background-color:rgb(125, 82, 0);
 }
