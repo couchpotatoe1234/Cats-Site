@@ -127,3 +127,21 @@
     padding:40px 24px;
     background-color:rgb(125, 82, 0);
 }
+.index-format {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.index-format img {
+    width: 25%;
+    flex-shrink: 0;
+    object-fit: cover;
+    border-radius: 15px;
+  border: 5px solid #000000;
+  margin-bottom: 10px;
+}
+button {
+    background-color:orange;
+    cursor: pointer;
+    margin-bottom:20px;
+}
